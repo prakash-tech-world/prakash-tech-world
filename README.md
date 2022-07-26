@@ -1,4 +1,4 @@
--------------------------------------------About Me------------------------------
+-----------------------------------------------------------------------------
 - 👋 Hi, I’m prakash joy mathew, a tetchy always interested to learn technologies. 
 - 👀 I’m interested in ... Java, Sql, Spring, devops, testing automation, hie
 - 🌱 I’m currently learning ... WTL (will tell later)
@@ -6,7 +6,7 @@
 - 📫 How to reach me ... WTL
 
 
------------------------------Tech Center-------------------------------------
+------------------------------------------------------------------------------
 * Certification
 * Tools
 * Technology
