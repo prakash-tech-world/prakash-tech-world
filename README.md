@@ -7,9 +7,9 @@
 - 💞️ I’m looking to collaborate on ... WTL
 - 📫 How to reach me ... WTL
 
-| Tools     |        For what       | Tools     |               
-| ------------- || ------------- |
-| [git](https://github.com/prakash-tech-world/m01.01.01-git)          |   understand git and github
+| Tools     |        For what       | T       
+| ------------- | ------------- |
+| [git](https://github.com/prakash-tech-world/m01.01.01-git)          |   understand git and github |
 
 
 ------------------------------------------------------------------------------
