@@ -32,3 +32,12 @@
 ------------------------------------------------------------------------------
 
 
+
+
+to enable bluetooth run 
+Run the following commands:
+
+sudo apt-get install pulseaudio-module-bluetooth
+sudo killall pulseaudio
+pulseaudio --start    
+sudo systemctl restart bluetooth
