@@ -1,16 +1,13 @@
 -----------------------------------------------------------------------------
 #### About Me ####
 -----------------------------------------------------------------------------
-- 👋 Hi, I’m prakash joy mathew, a tetchy always interested to learn technologies. 
-- 👀 I’m interested in ... Java, Sql, Spring, devops, testing automation, hie
-- 🌱 I’m currently learning ... WTL (will tell later)
-- 💞️ I’m looking to collaborate on ... WTL
-- 📫 How to reach me ... WTL
-
-----------------------------------ss--------------------------------------------
-| Tools     |        For what       |  
-| ------------- | ------------- |
-| [git](https://github.com/prakash-tech-world/m01.01.01-git)          |   understand git and github |
+- This is my world of technology. 
+- The above index if for learning center
+------------------------------------------------------------------------------
+##### Tools
+  
+| --------------------------------------------------------------------|----------------------------------------------------------|
+| [git](https://github.com/prakash-tech-world/m01.01.01-git)          |[git](https://github.com/prakash-tech-world/m01.01.01-git)|
 
 ------------------------------------------------------------------------------
 | Prograaming   |        For what       |  
@@ -34,6 +31,13 @@
 #### Projects ####
 ------------------------------------------------------------------------------
 
+
+
+- 👋 Hi, I’m prakash joy mathew, a tetchy always interested to learn technologies.
+- 👀 I’m interested in ... Java, Sql, Spring, devops, testing automation, hie
+- 🌱 I’m currently learning ... WTL (will tell later)
+- 💞️ I’m looking to collaborate on ... WTL
+- 📫 How to reach me ... WTL
 
 
 
