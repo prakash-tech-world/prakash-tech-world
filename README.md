@@ -39,3 +39,25 @@ sudo apt-get install pulseaudio-module-bluetooth
 sudo killall pulseaudio
 pulseaudio --start    
 sudo systemctl restart bluetooth
+
+
+
+1. git
+2. java, associate, professional
+3. hl7
+4. Agile
+5. docker
+6. kubernates  KCNA,CKAD,CKA
+7. jenkins
+8. Ansible
+9. ci/cd
+10. react
+11. react native
+12. spring
+13. fhir
+14. clinical
+15. java architecture
+16. data science
+17. mi
+18. ai
+19. kafka
