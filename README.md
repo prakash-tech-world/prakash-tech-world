@@ -13,7 +13,7 @@
 ------------------------------------------------------------------------------
 | Prograaming   |        For what       |  
 | ------------- | ------------- |
-| [java](https://github.com/prakash-tech-world/m04.00.00-java)          | Core java |
+| [java](https://github.com/prakash-tech-world/java_core)          | Core java |
 
 ------------------------------------------------------------------------------
 #### Technology ####
